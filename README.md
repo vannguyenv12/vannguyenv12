@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vannguyenv12
-- 🌱 I’m currently learning JavaScript
+- 🌱 I love JavaScript
+
 
 <!---
 vannguyenv12/vannguyenv12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
