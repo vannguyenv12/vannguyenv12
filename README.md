@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about backend**
 
-- 💬 Ask me about **JavaScript, Nodejs, ExpressJS**
+- 💬 Ask me about **JavaScript, NodeJS, ExpressJS**
 
 - 📫 How to reach me **npnv.vn1@gmail.com**
 
