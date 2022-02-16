@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm vannguyenv12</h1>
-<h3 align="center">I am learning JavaScript</h3>
+<h3 align="center">I love JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vannguyenv12&label=Profile%20views&color=0e75b6&style=flat" alt="vannguyenv12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vannguyenv12" alt="vannguyenv12" /></a> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS**
 
