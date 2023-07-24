@@ -1,4 +1,4 @@
-# 💫 About Me: The life is too short to code
+# 💫 The life is too short to code
 
 - 🌱 The only skill I have is **Copy and Paste**
 
