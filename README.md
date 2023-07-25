@@ -1,6 +1,6 @@
 # 💫 The life is too short to code
 
-- 🌱 The only skill I have is **Copy and Paste**
+- 🌱 The only skill I have is **Copy & Paste**
 
 - ⚡Fun fact: I'm simply a **dev** who doesn't like to code
 
